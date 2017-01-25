@@ -1,8 +1,9 @@
 #ifndef MRD_GAME_H
 #define MRD_GAME_H
 
+#include <mrd_plattform.h>
 
-class Game
+class MRD_API Game
 {
 public:
 	Game();
